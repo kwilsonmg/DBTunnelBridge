@@ -1,0 +1,7 @@
+.venv/
+.idea/
+dist/
+**/__pycache__/**
+*.whl
+*.tar.gz
+*.pyc
