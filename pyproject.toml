@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "DBTunnelBridge"
-version = "0.0.1"
+version = "0.0.1b"
 description = "A package for managing local and remote database connections with optional SSH tunneling."
 readme = "README.md"
 authors = [
