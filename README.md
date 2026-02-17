@@ -1,6 +1,6 @@
 # DBTunnelBridge
 
-DBTunnelBridge is a Python package that simplifies database connections with optional SSH tunneling support. It provides a clean, Pythonic interface for managing both local and remote database connections through SSH tunnels, with basic automatic resource management and environment variable integration.
+DBTunnelBridge is a Python package that simplifies MySQL-compatible database connections with optional SSH tunneling support. It provides a clean, Pythonic interface for managing both local and remote database connections through SSH tunnels, with basic automatic resource management and environment variable integration.
 
 ## Features
 
